@@ -1,4 +1,5 @@
 /!\ Ce projet est maintenant hebergé directement dans le repo Git du workshop Open Code Quest /!\
+https://github.com/rh-opencodequest-origins/open-code-quest-observability
 
 # Repository pour le workshop Open Code Quest - la partie observabilité
 
