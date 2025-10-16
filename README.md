@@ -1,3 +1,5 @@
+/!\ Ce projet est maintenant hebergé directement dans le repo Git du workshop Open Code Quest /!\
+
 # Repository pour le workshop Open Code Quest - la partie observabilité
 
 ## Contexte du Projet
